@@ -20,5 +20,7 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
-  return
+  if ('string.ToLowerCase()') {
+    return 
+  }
 }
